@@ -1,0 +1,6 @@
+{
+  "name": "agent-kela-generador-de-contrase-as-segur-moqyfcxu",
+  "version": "1.0.0",
+  "description": "Proyecto de Kela [Gen2]: generador de contraseñas seguras con entropía",
+  "main": "index.js"
+}
